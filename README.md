@@ -1,1 +1,2 @@
-# mospolytech-rating
+# mospolytech rating lists script
+Made by HORMAN 
